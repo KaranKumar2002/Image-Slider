@@ -31,5 +31,4 @@ b.addEventListener('click',(e)=>{
 })
 stop.addEventListener('click',()=>{
    clearInterval(IntervalId);
-
 })
